@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "grand_total": {
+        "digital": "5:49",
+        "hours": 5,
+        "minutes": 49,
+        "text": "5 hrs 49 mins",
+        "total_seconds": 20994.859603
+      },
+      "range": {
+        "date": "2019-03-15",
+        "end": "2019-03-16T02:59:59Z",
+        "start": "2019-03-15T03:00:00Z",
+        "text": "Fri Mar 15th 2019",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      "range": {
+        "date": "2019-03-16",
+        "end": "2019-03-17T02:59:59Z",
+        "start": "2019-03-16T03:00:00Z",
+        "text": "Sat Mar 16th 2019",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "0:00",
+        "hours": 0,
+        "minutes": 0,
+        "text": "0 secs",
+        "total_seconds": 0
+      },
+      "range": {
+        "date": "2019-03-17",
+        "end": "2019-03-18T02:59:59Z",
+        "start": "2019-03-17T03:00:00Z",
+        "text": "Sun Mar 17th 2019",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "7:14",
+        "hours": 7,
+        "minutes": 14,
+        "text": "7 hrs 14 mins",
+        "total_seconds": 26086.768003
+      },
+      "range": {
+        "date": "2019-03-18",
+        "end": "2019-03-19T02:59:59Z",
+        "start": "2019-03-18T03:00:00Z",
+        "text": "Mon Mar 18th 2019",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "7:21",
+        "hours": 7,
+        "minutes": 21,
+        "text": "7 hrs 21 mins",
+        "total_seconds": 26487.247626
+      },
+      "range": {
+        "date": "2019-03-19",
+        "end": "2019-03-20T02:59:59Z",
+        "start": "2019-03-19T03:00:00Z",
+        "text": "Tue Mar 19th 2019",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "3:02",
+        "hours": 3,
+        "minutes": 2,
+        "text": "3 hrs 2 mins",
+        "total_seconds": 10976.021496
+      },
+      "range": {
+        "date": "2019-03-20",
+        "end": "2019-03-21T02:59:59Z",
+        "start": "2019-03-20T03:00:00Z",
+        "text": "Yesterday",
+        "timezone": "America/Sao_Paulo"
+      }
+    },
+    {
+      "grand_total": {
+        "digital": "4:59",
+        "hours": 4,
+        "minutes": 59,
+        "text": "4 hrs 59 mins",
+        "total_seconds": 17960.664043
+      },
+      "range": {
+        "date": "2019-03-21",
+        "end": "2019-03-22T02:59:59Z",
+        "start": "2019-03-21T03:00:00Z",
+        "text": "Today",
+        "timezone": "America/Sao_Paulo"
+      }
+    }
+  ]
+}
