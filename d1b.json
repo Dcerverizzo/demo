@@ -1,9 +1,34 @@
 {
-  
+  "data": [
+  "data_situacao": "15/02/2011",
   "nome": "REDE EDUCACAO - SOLUCOES EM TECNOLOGIA LTDA",
   "uf": "SP",
   "telefone": "(17) 3212-8684",
   "email": "administrativo@didactica.com.br",
-  "cep": "15.025-500"
-  
+  "situacao": "ATIVA",
+  "bairro": "BOA VISTA",
+  "logradouro": "R FRITZ JACOBS",
+  "numero": "428",
+  "cep": "15.025-500",
+  "municipio": "SAO JOSE DO RIO PRETO",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "abertura": "15/02/2011",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "fantasia": "DIDACTICA",
+  "cnpj": "13.263.807/0001-69",
+  "ultima_atualizacao": "2019-02-08T18:58:53.058Z",
+  "status": "OK",
+  "tipo": "MATRIZ",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+    ],
+  }
 }
