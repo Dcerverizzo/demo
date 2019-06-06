@@ -1,0 +1,78 @@
+{
+  "atividade_principal": [
+    {
+      "text": "Comércio varejista de livros",
+      "code": "47.61-0-01"
+    }
+  ],
+  "data_situacao": "15/02/2011",
+  "nome": "REDE EDUCACAO - SOLUCOES EM TECNOLOGIA LTDA",
+  "uf": "SP",
+  "telefone": "(17) 3212-8684",
+  "email": "administrativo@didactica.com.br",
+  "atividades_secundarias": [
+    {
+      "text": "Edição de livros",
+      "code": "58.11-5-00"
+    },
+    {
+      "text": "Comércio atacadista de livros, jornais e outras publicações",
+      "code": "46.47-8-02"
+    },
+    {
+      "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador",
+      "code": "77.39-0-99"
+    },
+    {
+      "text": "Desenvolvimento e licenciamento de programas de computador customizáveis",
+      "code": "62.02-3-00"
+    },
+    {
+      "text": "Treinamento em desenvolvimento profissional e gerencial",
+      "code": "85.99-6-04"
+    },
+    {
+      "text": "Produção de filmes para publicidade",
+      "code": "59.11-1-02"
+    },
+    {
+      "text": "Desenvolvimento e licenciamento de programas de computador não-customizáveis",
+      "code": "62.03-1-00"
+    }
+  ],
+  "qsa": [
+    {
+      "qual": "49-Sócio-Administrador",
+      "nome": "LUIS GUSTAVO PIERINI"
+    },
+    {
+      "qual": "49-Sócio-Administrador",
+      "nome": "DANIELA LUIZ"
+    }
+  ],
+  "situacao": "ATIVA",
+  "bairro": "BOA VISTA",
+  "logradouro": "R FRITZ JACOBS",
+  "numero": "428",
+  "cep": "15.025-500",
+  "municipio": "SAO JOSE DO RIO PRETO",
+  "porte": "EMPRESA DE PEQUENO PORTE",
+  "abertura": "15/02/2011",
+  "natureza_juridica": "206-2 - Sociedade Empresária Limitada",
+  "fantasia": "DIDACTICA",
+  "cnpj": "13.263.807/0001-69",
+  "ultima_atualizacao": "2019-02-08T18:58:53.058Z",
+  "status": "OK",
+  "tipo": "MATRIZ",
+  "complemento": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "5000.00",
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}
